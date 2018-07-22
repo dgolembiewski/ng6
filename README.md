@@ -1,6 +1,7 @@
 This application is intended to assist you in transitioning beyond the Tour of Heroes.  It is not a complete application and it affords you the opportunity to practice adding additional features that are missing and in writing tests.  There is an obvious error in the code to encourage you to read through the code to find and fix it;  it is a very simple error easily fixed. 
 
-
+To learn more about the new features added to Angular 6 use:
+https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4
 
 
 
